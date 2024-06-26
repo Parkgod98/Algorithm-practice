@@ -1,2 +1,2 @@
 # Algorithm-practice
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+My codes on the journey from being a beginner to becoming an expert.
